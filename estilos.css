@@ -1,0 +1,41 @@
+body{
+    font-family: Verdana, Arial, sans-serif;
+    color: rgba(116, 66, 54, 0.904);
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    background-color: rgba(116, 66, 54, 0.904);
+    color: aliceblue;
+    font-size: 22px;
+
+}
+.distintocolor{
+    color: orange;
+}
+ #foto{
+    text-align: center;
+    margin: 5px ;
+ }
+img{
+    width: 1800px;
+    
+}
+
+#vinculo{
+    font-size: 26px;
+}
+
+a{
+    font-weight: bold;
+    color: rgb(255, 123, 0);
+}
+.laNa{
+    color: cornflowerblue;
+}
+.pag12{
+    color: red;
+}
